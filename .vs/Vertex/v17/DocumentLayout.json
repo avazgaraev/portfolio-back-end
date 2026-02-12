@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projets\\Vertex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\dtos\\requestdtos\\createpostrequetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:dtos\\requestdtos\\createpostrequetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\settings\\azurestorageoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:settings\\azurestorageoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\services\\azureblobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:services\\azureblobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\services\\facebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:services\\facebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AzureBlobStorageService.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\Services\\AzureBlobStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\AzureBlobStorageService.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\Services\\AzureBlobStorageService.cs",
+              "RelativeToolTip": "Services\\AzureBlobStorageService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:22:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AzureStorageOptions.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\Settings\\AzureStorageOptions.cs",
+              "RelativeDocumentMoniker": "Settings\\AzureStorageOptions.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\Settings\\AzureStorageOptions.cs",
+              "RelativeToolTip": "Settings\\AzureStorageOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:21:58.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projets\\Vertex\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T12:52:11.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediaController.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\Controllers\\MediaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MediaController.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\Controllers\\MediaController.cs",
+              "RelativeToolTip": "Controllers\\MediaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:29:40.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:26:57.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "posts.json",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\posts.json",
+              "RelativeDocumentMoniker": "posts.json",
+              "ToolTip": "D:\\Projets\\Vertex\\posts.json",
+              "RelativeToolTip": "posts.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T08:53:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacebookService.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\Services\\FacebookService.cs",
+              "RelativeDocumentMoniker": "Services\\FacebookService.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\Services\\FacebookService.cs",
+              "RelativeToolTip": "Services\\FacebookService.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwLkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:34:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\DTOs\\PostDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostDTO.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\DTOs\\PostDTO.cs",
+              "RelativeToolTip": "DTOs\\PostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:22:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePostRequetDTO.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\DTOs\\RequestDTOs\\CreatePostRequetDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\CreatePostRequetDTO.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\DTOs\\RequestDTOs\\CreatePostRequetDTO.cs",
+              "RelativeToolTip": "DTOs\\RequestDTOs\\CreatePostRequetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T07:55:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAgwDcAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T07:55:42.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
