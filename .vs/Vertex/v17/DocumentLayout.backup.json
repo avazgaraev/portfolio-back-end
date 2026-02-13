@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projets\\Vertex\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\dtos\\requestdtos\\createpostrequetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:dtos\\requestdtos\\createpostrequetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -78,28 +78,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projets\\Vertex\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Projets\\Vertex\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-11T12:52:11.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MediaController.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\Controllers\\MediaController.cs",
               "RelativeDocumentMoniker": "Controllers\\MediaController.cs",
               "ToolTip": "D:\\Projets\\Vertex\\Controllers\\MediaController.cs",
               "RelativeToolTip": "Controllers\\MediaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:29:40.921Z"
+              "WhenOpened": "2026-02-11T12:29:40.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "posts.json",
               "DocumentMoniker": "D:\\Projets\\Vertex\\posts.json",
               "RelativeDocumentMoniker": "posts.json",
@@ -151,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreatePostRequetDTO.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\DTOs\\RequestDTOs\\CreatePostRequetDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\CreatePostRequetDTO.cs",
@@ -163,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PostsController.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
