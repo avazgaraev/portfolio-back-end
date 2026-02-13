@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Projets\\Vertex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\dtos\\requestdtos\\createpostrequetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:dtos\\requestdtos\\createpostrequetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\services\\postfilestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:services\\postfilestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\dtos\\requestdtos\\createpostrequetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|solutionrelative:dtos\\requestdtos\\createpostrequetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11857622-84CB-4151-A4F0-8B55D948C740}|Vertex.csproj|d:\\projets\\vertex\\settings\\azurestorageoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +58,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "PostFileStore.cs",
+              "DocumentMoniker": "D:\\Projets\\Vertex\\Services\\PostFileStore.cs",
+              "RelativeDocumentMoniker": "Services\\PostFileStore.cs",
+              "ToolTip": "D:\\Projets\\Vertex\\Services\\PostFileStore.cs",
+              "RelativeToolTip": "Services\\PostFileStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:20:16.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AzureBlobStorageService.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\Services\\AzureBlobStorageService.cs",
               "RelativeDocumentMoniker": "Services\\AzureBlobStorageService.cs",
@@ -66,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AzureStorageOptions.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\Settings\\AzureStorageOptions.cs",
               "RelativeDocumentMoniker": "Settings\\AzureStorageOptions.cs",
@@ -78,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projets\\Vertex\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Projets\\Vertex\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-11T12:52:11.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MediaController.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\Controllers\\MediaController.cs",
               "RelativeDocumentMoniker": "Controllers\\MediaController.cs",
@@ -99,36 +115,36 @@
               "RelativeToolTip": "Controllers\\MediaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:29:40.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T12:29:40.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projets\\Vertex\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T11:26:57.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "posts.json",
               "DocumentMoniker": "D:\\Projets\\Vertex\\posts.json",
               "RelativeDocumentMoniker": "posts.json",
               "ToolTip": "D:\\Projets\\Vertex\\posts.json",
               "RelativeToolTip": "posts.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-11T08:53:40.054Z"
+              "WhenOpened": "2026-02-11T08:53:40.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FacebookService.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\Services\\FacebookService.cs",
               "RelativeDocumentMoniker": "Services\\FacebookService.cs",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PostDTO.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\DTOs\\PostDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\PostDTO.cs",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CreatePostRequetDTO.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\DTOs\\RequestDTOs\\CreatePostRequetDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\CreatePostRequetDTO.cs",
@@ -164,13 +180,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PostsController.cs",
               "DocumentMoniker": "D:\\Projets\\Vertex\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
               "ToolTip": "D:\\Projets\\Vertex\\Controllers\\PostsController.cs",
               "RelativeToolTip": "Controllers\\PostsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T07:55:42.891Z"
             }
