@@ -43,3 +43,4 @@ D:\Projets\Vertex\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Projets\Vertex\bin\Debug\net8.0\System.ClientModel.dll
 D:\Projets\Vertex\bin\Debug\net8.0\System.IO.Hashing.dll
 D:\Projets\Vertex\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projets\Vertex\obj\Debug\net8.0\Vertex.sourcelink.json

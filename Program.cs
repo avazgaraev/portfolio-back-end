@@ -1,4 +1,5 @@
 using Slavyan.Services;
+using Vertex.MiddleWares;
 using Vertex.Services;
 using Vertex.Settings;
 
@@ -31,7 +32,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseMiddleware<ExceptionHandler>();
 app.UseHttpsRedirection();
 app.UseCors("LiveServer");
 app.UseAuthorization();

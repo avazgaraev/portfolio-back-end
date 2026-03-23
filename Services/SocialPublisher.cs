@@ -17,13 +17,17 @@ namespace Slavyan.Services
         {
             var result = new SocialPublishResult();
 
+            // ========= INSTAGRAM =========
             var igId = await _instagramService.PublishToInstagramAsync(imageUrl, igCaption);
             result.InstagramId = igId;
+
             if (!string.IsNullOrWhiteSpace(igId))
                 result.InstagramLink = await _instagramService.GetPermalinkAsync(igId);
 
-            var fbId = await _facebookService.PostPhotoAsync(imageUrl, fbCaption);
+            // ========= FACEBOOK (TIMELINE) =========
+            var fbId = await _facebookService.PostSinglePhotoToTimelineAsync(imageUrl, fbCaption);
             result.FacebookId = fbId;
+
             if (!string.IsNullOrWhiteSpace(fbId))
                 result.FacebookLink = await _facebookService.GetPermalinkAsync(fbId);
 
@@ -39,29 +43,32 @@ namespace Slavyan.Services
                 .Distinct(StringComparer.OrdinalIgnoreCase)
                 .ToList();
 
-            if (clean.Count == 0) return result;
+            if (clean.Count == 0)
+                return result;
 
-            // IG max 10
+            // ========= INSTAGRAM =========
             var igImages = clean.Take(10).ToList();
 
-            string? igId = null;
+            string? igId;
             if (igImages.Count == 1)
                 igId = await _instagramService.PublishToInstagramAsync(igImages[0], igCaption);
             else
                 igId = await _instagramService.PublishCarouselAsync(igImages, igCaption);
 
             result.InstagramId = igId;
+
             if (!string.IsNullOrWhiteSpace(igId))
                 result.InstagramLink = await _instagramService.GetPermalinkAsync(igId);
 
-            // FB: 1 -> single, >1 -> multi
-            string? fbId = null;
+            // ========= FACEBOOK (TIMELINE) =========
+            string? fbId;
             if (clean.Count == 1)
-                fbId = await _facebookService.PostPhotoAsync(clean[0], fbCaption);
+                fbId = await _facebookService.PostSinglePhotoToTimelineAsync(clean[0], fbCaption);
             else
-                fbId = await _facebookService.PostMultiPhotoAsync(clean, fbCaption);
+                fbId = await _facebookService.PostMultiPhotoToTimelineAsync(clean, fbCaption);
 
             result.FacebookId = fbId;
+
             if (!string.IsNullOrWhiteSpace(fbId))
                 result.FacebookLink = await _facebookService.GetPermalinkAsync(fbId);
 
@@ -72,18 +79,21 @@ namespace Slavyan.Services
         {
             var result = new SocialPublishResult();
 
+            // ========= INSTAGRAM =========
             var igId = await _instagramService.PublishVideoAsync(videoUrl, igCaption, coverUrl);
             result.InstagramId = igId;
+
             if (!string.IsNullOrWhiteSpace(igId))
                 result.InstagramLink = await _instagramService.GetPermalinkAsync(igId);
 
-            var fbId = await _facebookService.PostVideoAsync(videoUrl, fbCaption);
+            // ========= FACEBOOK (TIMELINE) =========
+            var fbId = await _facebookService.PostVideoToTimelineAsync(videoUrl, fbCaption);
             result.FacebookId = fbId;
+
             if (!string.IsNullOrWhiteSpace(fbId))
                 result.FacebookLink = await _facebookService.GetPermalinkAsync(fbId);
 
             return result;
         }
     }
-
 }
